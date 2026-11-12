@@ -1,4 +1,4 @@
-##Nexus Money
+#  Nexus Money
 
 A modern and simple money counter application for Windows.
 
